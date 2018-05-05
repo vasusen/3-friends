@@ -58,7 +58,7 @@ class Friends extends React.Component {
         {profiles.map((profile, i) => (
           
             <div key={i} class="col-md-3 offset-md-1">
-            <div class="card">
+            <div class="card friends-card">
 
               <div class="text-center">
                 <img class="circle-img" src={profile.photo} alt="Profile phot" />

@@ -13,3 +13,7 @@ body {
   width: 100px;
   margin: 20px;
 }
+
+.friends-card {
+  min-height: 300px;
+}
